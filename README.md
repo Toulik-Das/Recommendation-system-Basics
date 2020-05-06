@@ -26,8 +26,7 @@ In order to implement Neighborhood Based Collaborative Filtering, you will learn
 ## Business Cases For Recommendations
 Four ideas needed for businesses to implement successful recommendations to drive revenue, which include:
 
-`Relevance
-Novelty
-Serendipity
-Increased Diversity`
-At the end of this lesson, you will have gained a ton of skills to build upon or to start creating your own recommendations in practice.
+`Relevance`
+`Novelty`
+`Serendipity`
+`Increased Diversity`
