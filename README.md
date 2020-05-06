@@ -1,4 +1,4 @@
-# Different Types of Recommendation Algorithms💻
+# Recommendation Algorithms💻
 
 ![online-shopping-retail-grocery-store-e-commerce-store-shelf](https://user-images.githubusercontent.com/39211262/81203812-00639e00-8fe6-11ea-8c52-cb315e9dab64.jpg)
 
